@@ -1,0 +1,19 @@
+.frame1-box{
+    display: flex;
+    flex-direction: column;
+}.frame1-header{
+    display: flex;
+    background-color: #FF3EA5;
+    text-align: center;
+    padding: 0.8rem 0;
+    font-weight: bolder;
+    color: white;
+}
+.frame1-header>div{
+    width: 100%;
+}
+
+.frame1-content-box{
+    height: 600px;
+    overflow-y: scroll;
+}

@@ -1,0 +1,18 @@
+.header {
+  background-color: #6420AA;
+  padding: 0.7rem 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.logo-container{
+  color: #FFB5DA;
+}
+.login-container button{
+padding: 0.5rem 0.8rem;
+border-radius: 0.5rem;
+background-color:#FF7ED4;
+border: none;
+cursor: pointer;
+font-weight: bolder;
+color: #6420AA;
+}

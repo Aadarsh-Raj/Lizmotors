@@ -1,0 +1,23 @@
+.library-list-item {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.071);
+}
+.library-list-header {
+  padding: 0.8rem;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ff7ed4;
+}
+.open-icon {
+  cursor: pointer;
+}
+.video-list-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem;
+  background-color: rgba(128, 128, 128, 0.368);
+  border-bottom: 1px solid #6520aa38;
+  cursor: pointer;
+}
